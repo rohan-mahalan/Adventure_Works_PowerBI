@@ -8,7 +8,7 @@ Power BI has been used to:
   3. Create calaculated columns and measures with DAX.
   4. Design an interactive dashboard to visualize the data.
 
-Images by the name Dashboard, Map, Product and Customer provide the preview of the report.
+Images by the name Dashboard, Map, Product, Customer and Adventure_Works_Data_Model provide the preview of the report.
 
 
 Note:- All the raw data has been provided by Microsoft.
